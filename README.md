@@ -4,7 +4,7 @@ Predicts whether a student answers their post-tutoring quiz question correctly, 
 
 ## Setup
 
-1. Download the assets from [Assets](https://kookree-my.sharepoint.com/:u:/g/personal/nicholas_kookree_ai/IQD77F2WqPuTR5m2iO2MFBS0ARcSQyC5qgMQ8V2RPxPy9kA?e=W3rMz1) and extract into `assets/`
+1. Download the kt adapter from [kt_adapter](https://kookree-my.sharepoint.com/:u:/g/personal/nicholas_kookree_ai/IQDbeVckH6mbRZ3CI7Qhwf5JAdbVtYpPi4DKhw4jb_Oslf8?e=BjJz29) and extract into `kt_adapter_s0/`
 2. Download the model  from [Model](https://kookree-my.sharepoint.com/:u:/g/personal/nicholas_kookree_ai/IQDUgpbg2zMCQYhi04spE25HAQyRByVApTWpRJZbbkKqm20?e=oZxhm3) and extract into `models/`
 
    ```
