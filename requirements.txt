@@ -1,0 +1,6 @@
+safetensors==0.8.0
+hf_xet==1.6.0
+transformers==5.14.1
+huggingface_hub==1.25.1
+flash_linear_attention==0.5.2
+einops==0.8.2
