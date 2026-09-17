@@ -1,0 +1,24 @@
+{
+ "w_kt": 0.7,
+ "lam": 1.3,
+ "prior": 0.7024692062043796,
+ "lo_topk": 4,
+ "lo_rel": 0.85,
+ "judge_ctx": 3,
+ "judge_tcut": 600,
+ "judge_scut": 400,
+ "pair_tcut": 400,
+ "pair_scut": 300,
+ "kt_max_tr": 3400,
+ "kt_max_len": 4096,
+ "assessable_min_words": 8,
+ "kt_adapters": [
+  "s0"
+ ],
+ "kt_cal": {
+  "1": [
+   1.53,
+   0.14
+  ]
+ }
+}
